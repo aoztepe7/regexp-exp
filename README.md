@@ -1,4 +1,4 @@
 # regexp-exp
 <p align="center">
-  <img src="../regexp-tr.png" alt="Regular expression">
+  ![alt text](https://github.com/aoztepe7/regexp-exp/blob/master/regexp-tr.png?raw=true)
 </p>
