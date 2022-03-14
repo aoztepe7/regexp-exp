@@ -13,5 +13,5 @@
 </div>
 
 <div>
-  <span> Referans  </span> <i href="https://github.com/ziishaned/learn-regex/blob/master/translations/README-tr.md"> Ziishaned </i>
+  <span> Referans  </span> <a href="https://github.com/ziishaned/learn-regex/blob/master/translations/README-tr.md"> Ziishaned </a>
 </div>
