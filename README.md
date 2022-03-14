@@ -11,3 +11,7 @@
   <img src="https://github.com/aoztepe7/regexp-exp/blob/main/regexp-sign.png?raw=true" alt="Regular expression">
 </p>
 </div>
+
+<div>
+  <span> Referans  </span> <i href="https://github.com/ziishaned/learn-regex/blob/master/translations/README-tr.md"> Ziishaned </i>
+</div>
